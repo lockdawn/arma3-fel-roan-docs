@@ -5,7 +5,7 @@
 
 **Regimiento de Operaciones Aero Navales (ROAN)**  
 **Clan:** FEL  
-**Versión:** 0.2 — Diagramas de geometría para perfiles RW  
+**Versión:** 0.3 — Denominaciones bilingües de perfiles RW  
 **Plataforma:** Arma 3  
 **Fecha:** 3 de noviembre de 2026  
 **Estado:** Borrador doctrinal para simulación y validación de instructores
@@ -75,28 +75,28 @@ El manual responde, para cada situación de entrenamiento, a las preguntas: **¿
   - [4.3 Responsabilidades por tripulación](#tripulacion)
 - [5. Catálogo técnico de perfiles y maniobras](#catalogo)
   - [5.1 Matriz general de perfiles](#matriz-perfiles)
-  - [5.2 RW-01 — Masked / Unmask Profile](#rw01)
-  - [5.3 RW-02 — Bob-Up Profile](#rw02)
-  - [5.4 RW-03 — Pop-Up Profile](#rw03)
-  - [5.5 RW-04 — Running Fire Profile](#rw04)
-  - [5.6 RW-05 — Diving Fire Profile](#rw05)
-  - [5.7 RW-06 — Close-In Gun Run / Strafing](#rw06)
-  - [5.8 RW-07 — Rocket Attack Profile](#rw07)
-  - [5.9 RW-08 — Standoff Guided Engagement](#rw08)
-  - [5.10 RW-09 — Battle Position Engagement](#rw09)
-  - [5.11 RW-10 — Successive Battle Positions](#rw10)
-  - [5.12 RW-11 — Defilade Position Profile](#rw11)
-  - [5.13 RW-12 — Offset Attack Profile](#rw12)
-  - [5.14 RW-13 — Re-Attack / Racetrack Pattern](#rw13)
-  - [5.15 RW-14 — Shooter–Cover Coordination](#rw14)
-  - [5.16 RW-15 — Alternating Section Profile](#rw15)
-  - [5.17 RW-16 — Armed Reconnaissance / Handoff](#rw16)
-  - [5.18 RW-17 — Escort Threat Response](#rw17)
-  - [5.19 RW-18 — JTAC-Controlled CAS](#rw18)
-  - [5.20 RW-19 — Break Contact / Egress](#rw19)
-  - [5.21 RW-20 — Terrain-Masked Defensive Flight](#rw20)
-  - [5.22 RW-21 — Maneuver Kill: concepto y CFIT](#rw21)
-  - [5.23 RW-22 — Holding Area / Attack Position](#rw22)
+  - [5.2 RW-01 — Masked / Unmask Profile (Perfil de Enmascaramiento y Desenmascaramiento)](#rw01)
+  - [5.3 RW-02 — Bob-Up Profile (Perfil de Elevación Repentina)](#rw02)
+  - [5.4 RW-03 — Pop-Up Profile (Perfil de Ascenso Rápido y Ataque en Picado)](#rw03)
+  - [5.5 RW-04 — Running Fire Profile (Perfil de Fuego en Movimiento)](#rw04)
+  - [5.6 RW-05 — Diving Fire Profile (Perfil de Ataque en Picado)](#rw05)
+  - [5.7 RW-06 — Close-In Gun Run / Strafing (Pasada de Ametrallamiento a Corta Distancia)](#rw06)
+  - [5.8 RW-07 — Rocket Attack Profile (Perfil de Ataque con Cohetes)](#rw07)
+  - [5.9 RW-08 — Standoff Guided Engagement (Ataque Guiado a Distancia de Seguridad)](#rw08)
+  - [5.10 RW-09 — Battle Position Engagement (Ataque desde Posición de Combate)](#rw09)
+  - [5.11 RW-10 — Successive Battle Positions (Ataque desde Posiciones de Combate Sucesivas)](#rw10)
+  - [5.12 RW-11 — Defilade Position Profile (Perfil de Ataque desde Posición a Cubierto)](#rw11)
+  - [5.13 RW-12 — Offset Attack Profile (Perfil de Ataque con Aproximación Desplazada)](#rw12)
+  - [5.14 RW-13 — Re-Attack / Racetrack Pattern (Patrón de Circuito para Ataques Sucesivos)](#rw13)
+  - [5.15 RW-14 — Shooter–Cover Coordination (Coordinación entre Aeronave de Ataque y Cobertura)](#rw14)
+  - [5.16 RW-15 — Alternating Section Profile (Perfil de Ataque Alternado por Secciones)](#rw15)
+  - [5.17 RW-16 — Armed Reconnaissance / Target Handoff (Reconocimiento Armado y Transferencia de Objetivos)](#rw16)
+  - [5.18 RW-17 — Escort Threat Response (Respuesta a Amenazas durante Misiones de Escolta)](#rw17)
+  - [5.19 RW-18 — JTAC-Controlled CAS (Apoyo Aéreo Cercano Controlado por JTAC)](#rw18)
+  - [5.20 RW-19 — Break Contact / Emergency Egress (Ruptura de Contacto y Salida de Emergencia)](#rw19)
+  - [5.21 RW-20 — Terrain-Masked Defensive Flight (Vuelo Defensivo con Enmascaramiento del Terreno)](#rw20)
+  - [5.22 RW-21 — Maneuver Kill: Concept and CFIT (Derrota del Misil por Maniobra y Riesgo de Impacto contra el Terreno)](#rw21)
+  - [5.23 RW-22 — Holding Area / Attack Position (Área de Espera y Posición de Ataque)](#rw22)
 - [6. Aplicación por amenaza antiaérea virtual](#amenazas)
   - [6.1 AAA de adquisición visual](#aaa)
   - [6.2 Radar y SAM de largo alcance](#sam)
@@ -292,12 +292,12 @@ DEBRIEF (analizar trazas y comunicaciones)
 ```
 
 <a id="rw01"></a>
-## 5.2 RW-01 — Masked / Unmask Profile
+## 5.2 RW-01 — Masked / Unmask Profile (Perfil de Enmascaramiento y Desenmascaramiento)
 
 - **Descripción:** transición controlada entre observación oculta por relieve y observación despejada, dentro de un escenario diseñado por el instructor.
 - **Geometría:** referencia topográfica cercana; AGL y velocidad fijadas en briefing, con margen positivo frente a obstáculos. Diferenciar claramente **enmascaramiento** y **aproximación a colisión**.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — MASK / UNMASK
@@ -319,12 +319,12 @@ A ● ───────────────/ ─────────
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw02"></a>
-## 5.3 RW-02 — Bob-Up Profile
+## 5.3 RW-02 — Bob-Up Profile (Perfil de Elevación Repentina)
 
 - **Descripción:** ejercicio de transición vertical breve desde posición de espera hacia línea de observación y vuelta a vuelo estabilizado.
 - **Geometría:** desplazamiento vertical representado por puntos de referencia; AGL/velocidad **[POR VALIDAR]** en Arma 3.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — BOB-UP
@@ -347,7 +347,7 @@ VISTA LATERAL — BOB-UP
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw03"></a>
-## 5.4 RW-03 — Pop-Up Profile
+## 5.4 RW-03 — Pop-Up Profile (Perfil de Ascenso Rápido y Ataque en Picado)
 
 - **Descripción:** secuencia conceptual de **Ingress → The Pop → Apex/Roll-In → Dive & Release (simulado) → Escape/Recovery**, empleada como ejercicio de transición de energía, orientación y coordinación.
 - **Geometría:** ascenso respecto a un tramo de ingreso, transición en ápice y descenso/recuperación hacia corredor seguro. El diagrama es conceptual, **no representa un ángulo o altura de ataque recomendados**.
@@ -372,12 +372,12 @@ INGRESS ────────────/     \─────────�
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw04"></a>
-## 5.5 RW-04 — Running Fire Profile
+## 5.5 RW-04 — Running Fire Profile (Perfil de Fuego en Movimiento)
 
 - **Descripción:** perfil de referencia en el que la aeronave conserva movimiento de avance durante una pasada ficticia.
 - **Geometría:** trayectoria de vuelo progresiva y delimitada; el instructor establece altitud, velocidad y corredor separado de fuerzas amigas virtuales.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — RUNNING FIRE
@@ -397,12 +397,12 @@ INGRESS ● ──────────────────────�
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw05"></a>
-## 5.6 RW-05 — Diving Fire Profile
+## 5.6 RW-05 — Diving Fire Profile (Perfil de Ataque en Picado)
 
 - **Descripción:** pasada conceptual con segmento descendente y recuperación, utilizada para enseñar gestión de energía y riesgo de CFIT.
 - **Geometría:** tramo de aproximación, cambio de actitud, segmento descendente y recuperación; valores definidos por el instructor para el mapa concreto.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — DIVING FIRE
@@ -423,12 +423,12 @@ ENTRADA ●────────────╲
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw06"></a>
-## 5.7 RW-06 — Close-In Gun Run / Strafing
+## 5.7 RW-06 — Close-In Gun Run / Strafing (Pasada de Ametrallamiento a Corta Distancia)
 
 - **Descripción:** ejercicio de pasada cercana con cañón/ametralladora **en un campo virtual segregado**; no es una recomendación de empleo real.
 - **Geometría:** eje señalizado, inicio y fin de zona, límite de sobrevuelo y salida obligatoria; parámetros según validación del mod.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — GUN RUN / STRAFING
@@ -449,12 +449,12 @@ ENTRADA → ┌─────────────────────�
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw07"></a>
-## 5.8 RW-07 — Rocket Attack Profile
+## 5.8 RW-07 — Rocket Attack Profile (Perfil de Ataque con Cohetes)
 
 - **Descripción:** familiarización con la diferencia entre control de trayectoria y representación de un lanzamiento de cohetes dentro de Arma 3.
 - **Geometría:** pasada autorizada por corredor de simulación; dispersión y punto de impacto **dependen del arma virtual y del mod**.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — ROCKET TRAINING PROFILE
@@ -476,12 +476,12 @@ EGRESS  ● ◀─────────── RECUPERACIÓN
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw08"></a>
-## 5.9 RW-08 — Standoff Guided Engagement
+## 5.9 RW-08 — Standoff Guided Engagement (Ataque Guiado a Distancia de Seguridad)
 
 - **Descripción:** ejercicio de gestión de sensores, asignación de blanco virtual y coordinación de disparo simulado desde una posición separada del objetivo.
 - **Geometría:** una posición de observación de entrenamiento y un blanco virtual; **no se prescribe alcance de arma real ni distancia para derrotar AA**.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — STANDOFF SIMULADO
@@ -502,12 +502,12 @@ VISTA SUPERIOR — STANDOFF SIMULADO
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw09"></a>
-## 5.10 RW-09 — Battle Position Engagement
+## 5.10 RW-09 — Battle Position Engagement (Ataque desde Posición de Combate)
 
 - **Descripción:** organización de una posición virtual de observación/empleo asignada antes de iniciar la misión.
 - **Geometría:** área BP poligonal definida en Eden, con límites de entrada y salida; altura/velocidad según ejercicio.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — BATTLE POSITION
@@ -530,12 +530,12 @@ VISTA SUPERIOR — BATTLE POSITION
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw10"></a>
-## 5.11 RW-10 — Successive Battle Positions
+## 5.11 RW-10 — Successive Battle Positions (Ataque desde Posiciones de Combate Sucesivas)
 
 - **Descripción:** transición entre dos o más BP planificadas; ejercita navegación, coordinación y reposicionamiento.
 - **Geometría:** BP-A → tramo de tránsito → BP-B; corredor y separaciones definidos antes del despegue.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — SUCCESSIVE BATTLE POSITIONS
@@ -556,12 +556,12 @@ BP A ● ───────→ BP B ● ───────→ BP C ●
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw11"></a>
-## 5.12 RW-11 — Defilade Position Profile
+## 5.12 RW-11 — Defilade Position Profile (Perfil de Ataque desde Posición a Cubierto)
 
 - **Descripción:** ejercicio topográfico sobre el significado de encontrarse en una posición protegida de línea de visión por relieve.
 - **Geometría:** análisis de cresta, valle y líneas de visión, sin establecer distancias de ocultamiento aplicables a defensas reales.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — DEFILADE
@@ -582,12 +582,12 @@ _________/      \___________
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw12"></a>
-## 5.13 RW-12 — Offset Attack Profile
+## 5.13 RW-12 — Offset Attack Profile (Perfil de Ataque con Aproximación Desplazada)
 
 - **Descripción:** estudio de una ruta no colineal con el eje final del ejercicio; prioridad en orientación y navegación.
 - **Geometría:** segmento de tránsito, punto de cambio de rumbo y tramo final fijados en Eden.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — OFFSET
@@ -609,12 +609,12 @@ INGRESS ● ─ ─┼─ ─ ─ ─ ─ ─ →
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw13"></a>
-## 5.14 RW-13 — Re-Attack / Racetrack Pattern
+## 5.14 RW-13 — Re-Attack / Racetrack Pattern (Patrón de Circuito para Ataques Sucesivos)
 
 - **Descripción:** circuito de entrenamiento de pasadas sucesivas, con autorización independiente para cada vuelta.
 - **Geometría:** patrón cerrado de entrenamiento fuera de áreas ocupadas por fuerzas amigas virtuales; altura y separación fijadas por instructor.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — RE-ATTACK / RACETRACK
@@ -636,12 +636,12 @@ VISTA SUPERIOR — RE-ATTACK / RACETRACK
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw14"></a>
-## 5.15 RW-14 — Shooter–Cover Coordination
+## 5.15 RW-14 — Shooter–Cover Coordination (Coordinación entre Aeronave de Ataque y Cobertura)
 
 - **Descripción:** ejercicio de asignación de funciones entre dos helicópteros de ataque, centrado en comunicaciones y conciencia mutua.
 - **Geometría:** áreas separadas y rutas independientes aprobadas; separación **[POR VALIDAR]** según servidor y visualización.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — SHOOTER / COVER
@@ -662,12 +662,12 @@ AERONAVE B ● ──────→ ● OBSERVACIÓN
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw15"></a>
-## 5.16 RW-15 — Alternating Section Profile
+## 5.16 RW-15 — Alternating Section Profile (Perfil de Ataque Alternado por Secciones)
 
 - **Descripción:** alternancia de tareas de observación/acción entre dos aeronaves, sin solapamiento de corredores.
 - **Geometría:** zonas de espera y de trabajo separadas y demarcadas por el instructor.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 SECUENCIA TEMPORAL — ALTERNATING SECTION
@@ -688,12 +688,12 @@ ELEMENTO B [ESPERA]       [ACTIVO]       [ESPERA]
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw16"></a>
-## 5.17 RW-16 — Armed Reconnaissance / Target Handoff
+## 5.17 RW-16 — Armed Reconnaissance / Target Handoff (Reconocimiento Armado y Transferencia de Objetivos)
 
 - **Descripción:** localización, identificación y transferencia de información de un contacto virtual, priorizando exactitud sobre velocidad.
 - **Geometría:** ruta de reconocimiento con puntos de informe y sectores observables.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 FLUJO — ARMED RECON / HANDOFF
@@ -716,12 +716,12 @@ REPORTE ────────────────→ RECEPTOR ●
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw17"></a>
-## 5.18 RW-17 — Escort Threat Response
+## 5.18 RW-17 — Escort Threat Response (Respuesta a Amenazas durante Misiones de Escolta)
 
 - **Descripción:** coordinación de escolta de un convoy o transporte de helicópteros en misión virtual, con énfasis en separación y reacción a un evento de amenaza guionizada.
 - **Geometría:** corredor de convoy, rutas paralelas o puntos de espera definidos por misión; no se fijan posiciones de combate reales.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — ESCORT RESPONSE
@@ -743,12 +743,12 @@ ESCOLTA B ● ───────────────→
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw18"></a>
-## 5.19 RW-18 — JTAC-Controlled CAS
+## 5.19 RW-18 — JTAC-Controlled CAS (Apoyo Aéreo Cercano Controlado por JTAC)
 
 - **Descripción:** ejercicio de apoyo aéreo cercano controlado por un JTAC simulado, centrado en reconocimiento de instrucciones y verificación del objetivo.
 - **Geometría:** áreas de espera, límites de operación y sectores de fuerzas amigas definidos por editor; no se derivan ejes reales de ataque.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 FLUJO — JTAC-CONTROLLED CAS (SIMULACIÓN)
@@ -774,12 +774,12 @@ TRIPULACIÓN ● ─────→ CONFIRMACIÓN
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw19"></a>
-## 5.20 RW-19 — Break Contact / Emergency Egress
+## 5.20 RW-19 — Break Contact / Emergency Egress (Ruptura de Contacto y Salida de Emergencia)
 
 - **Descripción:** interrupción de actividad y salida ordenada de una zona virtual ante una condición insegura o cambio de misión.
 - **Geometría:** retorno hacia zonas de recuperación previamente señalizadas; prioridad a altura mínima segura y control.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — EMERGENCY EGRESS
@@ -803,12 +803,12 @@ VISTA SUPERIOR — EMERGENCY EGRESS
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw20"></a>
-## 5.21 RW-20 — Terrain-Masked Defensive Flight
+## 5.21 RW-20 — Terrain-Masked Defensive Flight (Vuelo Defensivo con Enmascaramiento del Terreno)
 
 - **Descripción:** instrucción de conciencia del relieve y continuidad de vuelo al cambiar la visibilidad de objetos en un escenario virtual.
 - **Geometría:** corredor con elevaciones, obstáculos y puntos de escape claramente editados. La línea de visión **no equivale** a una garantía de protección contra sensores reales.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — TERRAIN-MASKED FLIGHT
@@ -829,12 +829,12 @@ INICIO ● ────────────────→ ● RECUPERACIÓN
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw21"></a>
-## 5.22 RW-21 — Maneuver Kill: concepto y CFIT
+## 5.22 RW-21 — Maneuver Kill: Concept and CFIT (Derrota del Misil por Maniobra y Riesgo de Impacto contra el Terreno)
 
 - **Descripción:** **Maneuver Kill** se utiliza aquí como término pedagógico de simulación para analizar situaciones en las que una maniobra extrema causa pérdida de control o colisión contra terreno (**CFIT, Controlled Flight Into Terrain**). No se enseñan métodos para provocar accidentes a otra aeronave ni para eludir misiles reales.
 - **Geometría:** ruta de obstáculos diseñada por instructor, con elevaciones y límites conservadores; **sin armamento ni amenaza activa** en fase inicial.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA LATERAL — CFIT PREVENTION
@@ -856,12 +856,12 @@ AERONAVE ● ────────→ RECUPERACIÓN CONTROLADA
 [↑ Volver al catálogo](#catalogo) · [↑ Volver al índice](#indice)
 
 <a id="rw22"></a>
-## 5.23 RW-22 — Holding Area / Attack Position
+## 5.23 RW-22 — Holding Area / Attack Position (Área de Espera y Posición de Ataque)
 
 - **Descripción:** separación entre zona de espera (**HA**) y posición de trabajo (**AP/BP**) para control del flujo de la misión.
 - **Geometría:** áreas demarcadas, rutas de transferencia y puntos de reporte; valores de AGL y velocidades establecidos por instructor.
 
-
+**Esquema conceptual de geometría (Arma 3):**
 
 ```text
 VISTA SUPERIOR — HOLDING / ATTACK POSITION
@@ -1267,7 +1267,7 @@ Objetivo formativo:
 <a id="control"></a>
 # 15. Registro de validaciones y control documental
 
-## 15.1 Pendientes priorizados para edición 0.2
+## 15.1 Pendientes priorizados para próximas ediciones
 
 | ID | Validación requerida | Plataforma | Estado |
 |---|---|---|---|
@@ -1284,6 +1284,8 @@ Objetivo formativo:
 
 | Versión | Fecha | Cambios |
 |---|---|---|
+| **0.3** | **03/11/2026** | Se incorporan denominaciones en español para los 22 perfiles RW, tanto en el índice como en sus encabezados, conservando los enlaces internos. |
+| **0.2** | **03/11/2026** | Se incorporan diagramas conceptuales de geometría de los 22 perfiles RW. |
 | **0.1** | **03/11/2026** | Primera versión integral; inventario ROAN validado contra catálogo 0.2, 22 fichas iniciales, escenarios AA/objetivos/distancia, procedimientos generales, entrenamiento, rúbrica, glosario y referencias. |
 
 ## 15.3 Control del documento
@@ -1292,7 +1294,7 @@ Objetivo formativo:
 |---|---|
 | Documento | Manual de Tácticas de Ataque Aéreo — Volumen I |
 | Organización | Regimiento de Operaciones Aero Navales — FEL |
-| Versión | 0.1 |
+| Versión | 0.3 |
 | Estado | Borrador para validación académica ROAN |
 | Plataforma | Arma 3 |
 | Alcance | Ala rotativa únicamente |
