@@ -146,6 +146,14 @@ Vista rápida del inventario autorizado. Los roles detallados y limitaciones se 
 | [Mi-28N](#mi28n) | Havoc | Ataque | [RHSAFRF](https://steamcommunity.com/workshop/filedetails/?id=843425103) |
 | [Ka-52](#ka52) | Alligator | Ataque / Reconocimiento | [RHSAFRF](https://steamcommunity.com/workshop/filedetails/?id=843425103) |
 
+## Infraestructura y Operaciones Aeronavales
+
+| Nombre | Rol principal | MOD |
+|---|---|---|
+| [Nimitz](#nimitz) | Plataformas / Herramientas | [Nimitz Experimental Build](https://steamcommunity.com/sharedfiles/filedetails/?id=1697731012) |
+| [LHA](#lha) | Plataformas / Herramientas | [LHA](https://steamcommunity.com/sharedfiles/filedetails/?id=3596653038) |
+| [Airfield Logistics](#airfield-logistics) | Plataformas / Herramientas | [Airfield Logistics](https://steamcommunity.com/sharedfiles/filedetails/?id=3048131698) |
+
 [↑ Volver al índice](#indice)
 
 ---
@@ -2501,14 +2509,14 @@ Esta sección reúne las plataformas y herramientas autorizadas para soportar op
 
 ## Elementos
 
-- [Nimitz Experimental Build](#nimitz)
+- [Nimitz](#nimitz)
 - [LHA](#lha)
 - [Airfield Logistics](#airfield-logistics)
 
 ---
 
 <a id="nimitz"></a>
-## Nimitz Experimental Build
+## Nimitz
 
 ### Imagen
 
