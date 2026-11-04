@@ -30,6 +30,16 @@ Los procedimientos, características y capacidades descritos pueden diferir de s
 
 Los documentos podrán actualizarse conforme evolucionen los procedimientos operacionales, los programas de entrenamiento y el catálogo de aeronaves autorizado por ROAN.
 
+## Licencia
+
+© 2026 FEL — Regimiento de Operaciones Aero Navales (ROAN).
+
+Salvo que se indique lo contrario, la documentación original de este repositorio se distribuye bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Se permite compartir, reproducir y adaptar el contenido para fines no comerciales, siempre que se reconozca la autoría original y las adaptaciones se distribuyan bajo la misma licencia.
+
+Las marcas, imágenes, documentación y demás materiales de terceros conservan sus respectivas licencias y derechos.
+
 ---
 
 **FEL — Regimiento de Operaciones Aero Navales**
