@@ -308,7 +308,7 @@ VISTA LATERAL — MASK / UNMASK
 A ● ───────────────/ ───────────→ B ●
   OBSERVACIÓN OCULTA         OBSERVACIÓN DESPEJADA
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, Mi-28N, Ka-52; H-60 únicamente para observación y navegación de su rol.
 - **Ingreso:** aproximarse a una posición de observación aprobada, sin salir de su corredor.
@@ -336,7 +336,7 @@ VISTA LATERAL — BOB-UP
           ↓
           ● RECUPERACIÓN ESTABILIZADA
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, Ka-52, Mi-28N, siempre que el mod permita control suficientemente preciso.
 - **Ingreso:** estabilizarse en posición virtual previamente aprobada.
@@ -360,7 +360,7 @@ VISTA LATERAL — BOB-UP
 INGRESS ────────────/     \──────────────→ EGRESS
                THE POP       (marcador de acción virtual)
 
-       [Altura, velocidad y distancias: POR VALIDAR EN ARMA 3]
+       [Altura, velocidad y distancias]
 ```
 
 - **Recomendadas:** AH-1Z, Mi-28N, Ka-52; AH-6M solo en ejercicio simplificado autorizado.
@@ -386,7 +386,7 @@ INGRESS ● ──────────────────────�
                     ◇ MARCADOR VIRTUAL
         (MOVIMIENTO DE AVANCE CONTINUO)
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-6M y Mi-24V; AH-1Z según carga del mod.
 - **Ingreso:** alinearse con un corredor señalizado en el mapa de entrenamiento.
@@ -412,7 +412,7 @@ ENTRADA ●────────────╲
 ──────────────────────────────────────────────
               LÍMITE SIMULADO DE SEGURIDAD
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z y Mi-24V; otros dedicados solo tras prueba.
 - **Ingreso:** confirmar altitud inicial de entrenamiento, horizonte y ruta de escape.
@@ -438,7 +438,7 @@ ENTRADA → ┌─────────────────────�
           └──────────────────────────┘
     FUERZAS AMIGAS FUERA DEL CORREDOR
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-6M, AH-1Z y Mi-24V; Mi-28N/Ka-52 de forma condicional.
 - **Ingreso:** verificar que el instructor ha declarado el campo libre de aeronaves y personal virtual aliado.
@@ -465,7 +465,7 @@ INGRESS ● ──────────→ PUNTO DE OBSERVACIÓN
 EGRESS  ● ◀─────────── RECUPERACIÓN
        (SIN REFERENCIAS BALÍSTICAS REALES)
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-6M, Mi-24V; AH-1Z, Mi-28N, Ka-52 según configuración efectiva.
 - **Ingreso:** seleccionar carga de entrenamiento y confirmar área virtual exclusiva.
@@ -491,7 +491,7 @@ VISTA SUPERIOR — STANDOFF SIMULADO
              OBSERVACIÓN   └─────────────────────┘
 [SEPARACIÓN A VALIDAR EN ARMA 3]
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, Mi-28N, Ka-52 y Mi-24V cuando el mod aporte sistemas compatibles.
 - **Ingreso:** establecer posición y controles de tripulación.
@@ -519,7 +519,7 @@ VISTA SUPERIOR — BATTLE POSITION
      └───────────────────┘
                 ◇ REFERENCIA VIRTUAL
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, Mi-28N, Ka-52.
 - **Ingreso:** navegar a la BP asignada.
@@ -545,7 +545,7 @@ BP A ● ───────→ BP B ● ───────→ BP C ●
       MARCADORES DE REFERENCIA
 [PROGRESIÓN SEGÚN BRIEFING]
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** Ka-52, AH-1Z, Mi-28N.
 - **Ingreso:** confirmar BP-A y rutas de tránsito.
@@ -571,7 +571,7 @@ _________/      \___________
     ● SECTOR CON COBERTURA      ◇ REFERENCIA
         (GEOMETRÍA CONCEPTUAL)
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** todas; transporte solo en contexto de navegación/protección.
 - **Ingreso:** situarse en una zona de observación sin obstáculos inmediatos.
@@ -598,7 +598,7 @@ INGRESS ● ─ ─┼─ ─ ─ ─ ─ ─ →
              \─────────────→ EGRESS DESPLAZADO
        (DESPLAZAMIENTO LATERAL)
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, AH-6M, Mi-24V.
 - **Ingreso:** localizar waypoint de cambio sin entrar en sectores restringidos.
@@ -625,7 +625,7 @@ VISTA SUPERIOR — RE-ATTACK / RACETRACK
        └──────────────────────────┘
    (NUEVA PASADA SOLO CON AUTORIZACIÓN)
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-6M, Mi-24V; otros solo si hay margen de maniobra validado.
 - **Ingreso:** incorporarse al circuito en punto designado.
@@ -651,7 +651,7 @@ AERONAVE B ● ──────→ ● OBSERVACIÓN
               COVER / APOYO
          COMUNICACIONES A ↔ B
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** parejas AH-1Z, Mi-28N o Ka-52.
 - **Ingreso:** establecer indicativos y responsabilidades.
@@ -677,7 +677,7 @@ ELEMENTO B [ESPERA]       [ACTIVO]       [ESPERA]
                    ↕ RELEVO COORDINADO
 [CORREDORES SEGREGADOS]
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z y Ka-52; Mi-28N según escenario.
 - **Ingreso:** sección se incorpora a puntos asignados.
@@ -705,7 +705,7 @@ REPORTE ────────────────→ RECEPTOR ●
                               ▼
                         ◇ MARCADOR
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** Ka-52; AH-6M y otros dedicados según sensores implementados.
 - **Ingreso:** establecer área de búsqueda aprobada.
@@ -732,7 +732,7 @@ ESCOLTA B ● ───────────────→
              ▼
        REAGRUPACIÓN / RUTA ALTERNATIVA
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, AH-6M, Mi-24V para escolta; H-60, MH-47G, CH-53E, Mi-8MT para transporte.
 - **Ingreso:** comprobar ruta del convoy, restricciones de sobrevuelo y canales de radio.
@@ -763,7 +763,7 @@ TRIPULACIÓN ● ─────→ CONFIRMACIÓN
                          ▼
                  REPORTE DE FINALIZACIÓN
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** AH-1Z, Mi-28N, Ka-52, Mi-24V, AH-6M según misión.
 - **Ingreso:** establecer contacto y confirmar área de espera.
@@ -792,7 +792,7 @@ VISTA SUPERIOR — EMERGENCY EGRESS
                          ▼
                  ● RECUPERACIÓN
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** todas las aeronaves.
 - **Ingreso:** iniciar en un escenario con uno o varios disparadores de seguridad simulados.
@@ -818,7 +818,7 @@ INICIO ● ────────────────→ ● RECUPERACIÓN
        MARGEN POSITIVO ANTE OBSTÁCULOS
 [ALTURAS Y VELOCIDADES POR VALIDAR]
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** todas, con ejercicios distintos para ataque y transporte.
 - **Ingreso:** reconocer ruta, obstáculos y mínimos establecidos.
@@ -845,7 +845,7 @@ AERONAVE ● ────────→ RECUPERACIÓN CONTROLADA
 ───────────────────┴──────────────── TERRENO
     OBJETIVO: NO IMPACTAR CON EL TERRENO
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** todas; especial atención a transportes pesados por su dinámica de vuelo distinta.
 - **Ingreso:** establecer estado estable y comunicar referencias.
@@ -875,7 +875,7 @@ VISTA SUPERIOR — HOLDING / ATTACK POSITION
            ▼
      ◇ REFERENCIA VIRTUAL
 
-[Altitud, velocidad y distancias: POR VALIDAR EN ARMA 3]
+[Altitud, velocidad y distancias]
 ```
 - **Recomendadas:** todas, adaptando la AP a una zona de observación o inserción según rol.
 - **Ingreso:** entrar al holding y verificar tráfico.
