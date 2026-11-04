@@ -297,7 +297,7 @@ DEBRIEF (analizar trazas y comunicaciones)
 - **Descripción:** transición controlada entre observación oculta por relieve y observación despejada, dentro de un escenario diseñado por el instructor.
 - **Geometría:** referencia topográfica cercana; AGL y velocidad fijadas en briefing, con margen positivo frente a obstáculos. Diferenciar claramente **enmascaramiento** y **aproximación a colisión**.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — MASK / UNMASK
@@ -324,7 +324,7 @@ A ● ───────────────/ ─────────
 - **Descripción:** ejercicio de transición vertical breve desde posición de espera hacia línea de observación y vuelta a vuelo estabilizado.
 - **Geometría:** desplazamiento vertical representado por puntos de referencia; AGL/velocidad **[POR VALIDAR]** en Arma 3.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — BOB-UP
@@ -377,7 +377,7 @@ INGRESS ────────────/     \─────────�
 - **Descripción:** perfil de referencia en el que la aeronave conserva movimiento de avance durante una pasada ficticia.
 - **Geometría:** trayectoria de vuelo progresiva y delimitada; el instructor establece altitud, velocidad y corredor separado de fuerzas amigas virtuales.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — RUNNING FIRE
@@ -402,7 +402,7 @@ INGRESS ● ──────────────────────�
 - **Descripción:** pasada conceptual con segmento descendente y recuperación, utilizada para enseñar gestión de energía y riesgo de CFIT.
 - **Geometría:** tramo de aproximación, cambio de actitud, segmento descendente y recuperación; valores definidos por el instructor para el mapa concreto.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — DIVING FIRE
@@ -428,7 +428,7 @@ ENTRADA ●────────────╲
 - **Descripción:** ejercicio de pasada cercana con cañón/ametralladora **en un campo virtual segregado**; no es una recomendación de empleo real.
 - **Geometría:** eje señalizado, inicio y fin de zona, límite de sobrevuelo y salida obligatoria; parámetros según validación del mod.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — GUN RUN / STRAFING
@@ -454,7 +454,7 @@ ENTRADA → ┌─────────────────────�
 - **Descripción:** familiarización con la diferencia entre control de trayectoria y representación de un lanzamiento de cohetes dentro de Arma 3.
 - **Geometría:** pasada autorizada por corredor de simulación; dispersión y punto de impacto **dependen del arma virtual y del mod**.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — ROCKET TRAINING PROFILE
@@ -481,7 +481,7 @@ EGRESS  ● ◀─────────── RECUPERACIÓN
 - **Descripción:** ejercicio de gestión de sensores, asignación de blanco virtual y coordinación de disparo simulado desde una posición separada del objetivo.
 - **Geometría:** una posición de observación de entrenamiento y un blanco virtual; **no se prescribe alcance de arma real ni distancia para derrotar AA**.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — STANDOFF SIMULADO
@@ -507,7 +507,7 @@ VISTA SUPERIOR — STANDOFF SIMULADO
 - **Descripción:** organización de una posición virtual de observación/empleo asignada antes de iniciar la misión.
 - **Geometría:** área BP poligonal definida en Eden, con límites de entrada y salida; altura/velocidad según ejercicio.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — BATTLE POSITION
@@ -535,7 +535,7 @@ VISTA SUPERIOR — BATTLE POSITION
 - **Descripción:** transición entre dos o más BP planificadas; ejercita navegación, coordinación y reposicionamiento.
 - **Geometría:** BP-A → tramo de tránsito → BP-B; corredor y separaciones definidos antes del despegue.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — SUCCESSIVE BATTLE POSITIONS
@@ -561,7 +561,7 @@ BP A ● ───────→ BP B ● ───────→ BP C ●
 - **Descripción:** ejercicio topográfico sobre el significado de encontrarse en una posición protegida de línea de visión por relieve.
 - **Geometría:** análisis de cresta, valle y líneas de visión, sin establecer distancias de ocultamiento aplicables a defensas reales.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — DEFILADE
@@ -587,7 +587,7 @@ _________/      \___________
 - **Descripción:** estudio de una ruta no colineal con el eje final del ejercicio; prioridad en orientación y navegación.
 - **Geometría:** segmento de tránsito, punto de cambio de rumbo y tramo final fijados en Eden.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — OFFSET
@@ -614,7 +614,7 @@ INGRESS ● ─ ─┼─ ─ ─ ─ ─ ─ →
 - **Descripción:** circuito de entrenamiento de pasadas sucesivas, con autorización independiente para cada vuelta.
 - **Geometría:** patrón cerrado de entrenamiento fuera de áreas ocupadas por fuerzas amigas virtuales; altura y separación fijadas por instructor.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — RE-ATTACK / RACETRACK
@@ -641,7 +641,7 @@ VISTA SUPERIOR — RE-ATTACK / RACETRACK
 - **Descripción:** ejercicio de asignación de funciones entre dos helicópteros de ataque, centrado en comunicaciones y conciencia mutua.
 - **Geometría:** áreas separadas y rutas independientes aprobadas; separación **[POR VALIDAR]** según servidor y visualización.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — SHOOTER / COVER
@@ -667,7 +667,7 @@ AERONAVE B ● ──────→ ● OBSERVACIÓN
 - **Descripción:** alternancia de tareas de observación/acción entre dos aeronaves, sin solapamiento de corredores.
 - **Geometría:** zonas de espera y de trabajo separadas y demarcadas por el instructor.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 SECUENCIA TEMPORAL — ALTERNATING SECTION
@@ -693,7 +693,7 @@ ELEMENTO B [ESPERA]       [ACTIVO]       [ESPERA]
 - **Descripción:** localización, identificación y transferencia de información de un contacto virtual, priorizando exactitud sobre velocidad.
 - **Geometría:** ruta de reconocimiento con puntos de informe y sectores observables.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 FLUJO — ARMED RECON / HANDOFF
@@ -721,7 +721,7 @@ REPORTE ────────────────→ RECEPTOR ●
 - **Descripción:** coordinación de escolta de un convoy o transporte de helicópteros en misión virtual, con énfasis en separación y reacción a un evento de amenaza guionizada.
 - **Geometría:** corredor de convoy, rutas paralelas o puntos de espera definidos por misión; no se fijan posiciones de combate reales.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — ESCORT RESPONSE
@@ -748,7 +748,7 @@ ESCOLTA B ● ───────────────→
 - **Descripción:** ejercicio de apoyo aéreo cercano controlado por un JTAC simulado, centrado en reconocimiento de instrucciones y verificación del objetivo.
 - **Geometría:** áreas de espera, límites de operación y sectores de fuerzas amigas definidos por editor; no se derivan ejes reales de ataque.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 FLUJO — JTAC-CONTROLLED CAS (SIMULACIÓN)
@@ -779,7 +779,7 @@ TRIPULACIÓN ● ─────→ CONFIRMACIÓN
 - **Descripción:** interrupción de actividad y salida ordenada de una zona virtual ante una condición insegura o cambio de misión.
 - **Geometría:** retorno hacia zonas de recuperación previamente señalizadas; prioridad a altura mínima segura y control.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — EMERGENCY EGRESS
@@ -808,7 +808,7 @@ VISTA SUPERIOR — EMERGENCY EGRESS
 - **Descripción:** instrucción de conciencia del relieve y continuidad de vuelo al cambiar la visibilidad de objetos en un escenario virtual.
 - **Geometría:** corredor con elevaciones, obstáculos y puntos de escape claramente editados. La línea de visión **no equivale** a una garantía de protección contra sensores reales.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — TERRAIN-MASKED FLIGHT
@@ -834,7 +834,7 @@ INICIO ● ────────────────→ ● RECUPERACIÓN
 - **Descripción:** **Maneuver Kill** se utiliza aquí como término pedagógico de simulación para analizar situaciones en las que una maniobra extrema causa pérdida de control o colisión contra terreno (**CFIT, Controlled Flight Into Terrain**). No se enseñan métodos para provocar accidentes a otra aeronave ni para eludir misiles reales.
 - **Geometría:** ruta de obstáculos diseñada por instructor, con elevaciones y límites conservadores; **sin armamento ni amenaza activa** en fase inicial.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA LATERAL — CFIT PREVENTION
@@ -861,7 +861,7 @@ AERONAVE ● ────────→ RECUPERACIÓN CONTROLADA
 - **Descripción:** separación entre zona de espera (**HA**) y posición de trabajo (**AP/BP**) para control del flujo de la misión.
 - **Geometría:** áreas demarcadas, rutas de transferencia y puntos de reporte; valores de AGL y velocidades establecidos por instructor.
 
-**Esquema conceptual de geometría (Arma 3):**
+
 
 ```text
 VISTA SUPERIOR — HOLDING / ATTACK POSITION
