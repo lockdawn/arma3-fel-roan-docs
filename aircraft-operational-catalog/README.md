@@ -150,8 +150,8 @@ Vista rápida del inventario autorizado. Los roles detallados y limitaciones se 
 
 | Nombre | Rol principal | MOD |
 |---|---|---|
-| [Nimitz](#nimitz) | Plataformas / Herramientas | [Nimitz Experimental Build](https://steamcommunity.com/sharedfiles/filedetails/?id=1697731012) |
-| [LHA](#lha) | Plataformas / Herramientas | [LHA](https://steamcommunity.com/sharedfiles/filedetails/?id=3596653038) |
+| [Nimitz](#nimitz) | Portaaviones Nuclear (CVN) | [Nimitz Experimental Build](https://steamcommunity.com/sharedfiles/filedetails/?id=1697731012) |
+| [LHA](#lha) | Buque de Asalto Anfibio (Portahelicópteros) | [LHA](https://steamcommunity.com/sharedfiles/filedetails/?id=3596653038) |
 | [Airfield Logistics](#airfield-logistics) | Plataformas / Herramientas | [Airfield Logistics](https://steamcommunity.com/sharedfiles/filedetails/?id=3048131698) |
 
 [↑ Volver al índice](#indice)
