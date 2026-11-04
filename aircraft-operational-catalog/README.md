@@ -152,7 +152,7 @@ Vista rápida del inventario autorizado. Los roles detallados y limitaciones se 
 |---|---|---|
 | [Nimitz](#nimitz) | Portaaviones Nuclear (CVN) | [Nimitz Experimental Build](https://steamcommunity.com/sharedfiles/filedetails/?id=1697731012) |
 | [LHA](#lha) | Buque de Asalto Anfibio (Portahelicópteros) | [LHA](https://steamcommunity.com/sharedfiles/filedetails/?id=3596653038) |
-| [Airfield Logistics](#airfield-logistics) | Plataformas / Herramientas | [Airfield Logistics](https://steamcommunity.com/sharedfiles/filedetails/?id=3048131698) |
+| [Airfield Logistics](#airfield-logistics) | Equipo de Apoyo Terrestre (GSE) | [Airfield Logistics](https://steamcommunity.com/sharedfiles/filedetails/?id=3048131698) |
 
 [↑ Volver al índice](#indice)
 
