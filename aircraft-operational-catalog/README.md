@@ -2512,7 +2512,7 @@ Esta sección reúne las plataformas y herramientas autorizadas para soportar op
 
 ### Imagen
 
-_Pendiente._
+<img width="1672" height="941" alt="Imagen de ChatGPT 3 nov 2026, 10_22_26 p m-2" src="https://github.com/user-attachments/assets/720a7a3c-aa36-46a8-a4af-4a6f86cfa4b5" />
 
 ### Tipo
 
@@ -2567,7 +2567,7 @@ Versión experimental del USS Nimitz para Arma 3. El propio Workshop la describe
 
 ### Imagen
 
-_Pendiente._
+<img width="1672" height="941" alt="Imagen de ChatGPT 3 nov 2026, 10_22_25 p m-1" src="https://github.com/user-attachments/assets/49adae23-bb99-4792-94f6-4890d165f33e" />
 
 ### Tipo
 
@@ -2626,7 +2626,7 @@ Buque de asalto anfibio basado en la clase America y con una configuración cerc
 
 ### Imagen
 
-_Pendiente._
+<img width="1672" height="941" alt="Imagen de ChatGPT 3 nov 2026, 10_22_28 p m-3" src="https://github.com/user-attachments/assets/0a920e62-e7da-4b6c-9770-2a647b744ae0" />
 
 ### Tipo
 
